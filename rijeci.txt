@@ -1,0 +1,3 @@
+Životinje: pas, macka, tigar, lav, slon, leopard, žirafa, krava, konj, ovca, koza, jare, 
+Tehnologija: kompjuter, internet, telefon, tastatura, ekran, laptop, miš, zvučnik, slušalice, mikrofon
+Sport: fudbal, kosarka, tenis, plivanje, trcanje, atletika, odbojka, lopta, reket, loptica, mreža
